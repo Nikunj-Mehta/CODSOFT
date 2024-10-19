@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package src.StudentGradeCalculator;
+
 import java.util.Scanner;
 
 class Student

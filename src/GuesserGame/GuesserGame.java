@@ -1,3 +1,5 @@
+package src.GuesserGame;
+
 import java.util.Scanner;
 
 class Guesser{
