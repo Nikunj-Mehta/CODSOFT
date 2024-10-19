@@ -21,7 +21,7 @@ public class Account {
         }
         else {
             balance -= amount;
-            System.out.println("Transaction successful! Amount withdrawed = Rs " + amount);
+            System.out.println("Transaction successful! Amount withdrawn = Rs " + amount);
         }
     }
 
