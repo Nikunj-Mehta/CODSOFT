@@ -44,4 +44,4 @@ Through this internship and the projects, I gained:
 
 **Project Status:** Completed
 
-**Author:** Nikunj Mehta
+## 🧑‍💻 Author **[Nikunj Mehta](https://github.com/Nikunj-Mehta)** 🚀 
